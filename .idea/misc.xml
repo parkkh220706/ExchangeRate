@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp-main/app/src/main/res/layout/board_item.xml" value="0.2861271676300578" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_alarm.xml" value="0.259963768115942" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_board.xml" value="0.259963768115942" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_cal.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/drawable/ic_favor_click.xml" value="0.2605" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/activity_main_preference.xml" value="0.1875" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/board_item.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/fragment_alarm.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/fragment_board.xml" value="0.25" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/fragment_cal.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/fragment_fullscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/layout/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/menu/bnv_menu.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/menu/menu_bottom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/xml-v26/preference.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android/Projects/TP_ExchangeRateApp/app/src/main/res/xml/preference.xml" value="0.2636363636363636" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/calfragment_border.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/calfragment_border2.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/ic_favor_click.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/ic_favor_clicked.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.179" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/activity_main_preference.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/board_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_alarm.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_board.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_cal.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidPkh/TP_ExchangeRateApp-main/app/src/main/res/menu/bnv_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/parkm/Desktop/TP_ExchangeRateApp-main/app/src/main/res/layout/board_item.xml" value="0.375" />
+        <entry key="..\:/Users/parkm/Desktop/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_board.xml" value="0.3183876811594203" />
+        <entry key="..\:/Users/parkm/Desktop/TP_ExchangeRateApp-main/app/src/main/res/layout/fragment_cal.xml" value="0.3183876811594203" />
+        <entry key="..\:/Users/parkm/Desktop/project/TP_ExchangeRateApp/app/src/main/res/layout/activity_main.xml" value="0.2753623188405797" />
+        <entry key="..\:/Users/parkm/Desktop/project/TP_ExchangeRateApp/app/src/main/res/layout/activity_main_preference.xml" value="0.2753623188405797" />
+        <entry key="..\:/Users/parkm/Desktop/project/TP_ExchangeRateApp/app/src/main/res/layout/fragment_alarm.xml" value="0.2753623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
